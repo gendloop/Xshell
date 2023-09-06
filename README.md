@@ -1,9 +1,9 @@
-# RepoName
+# Xshell
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/Xshell
 ```
 
 ## Notes
